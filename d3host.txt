@@ -1,4 +1,4 @@
-# Title: d3Host List by d3ward + Mega Extended Domains
+# Title: d3Host List by d3ward + Mega Extended Domainss
 # Expires: 1 days
 # Description: Simple and small list with the most popular advertising, tracking, analytics and social advertising services + max real domains added
 # Homepage: https://github.com/d3ward/toolz
